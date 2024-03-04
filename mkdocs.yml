@@ -27,7 +27,7 @@ theme:
 plugins:
   - search
 nav:
-  - Introduction: "education/index.md"
+  - Introduction: "index.md"
   - Education:
     - Labs: "education/labs.md"
     - Lecture: "education/lecture.md"
