@@ -1,0 +1,37 @@
+site_name: cloud-platforms-as-the-basis-of-technology-entrepreneurship
+repo_name: 'itmo-ict-faculty'
+repo_url: 'https://github.com/itmo-ict-faculty/cloud-platforms-as-the-basis-of-technology-entrepreneurship'
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Switch to dark mode
+    # - scheme: slate
+    #   primary: green
+    #   toggle:
+    #     icon: material/weather-night
+    #     name: Switch to light mode
+#  logo: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+#    - navigation.tabs
+#    - navigation.tabs.sticky
+    - toc.follow
+    - navigation.top
+plugins:
+  - search
+nav:
+  - Introduction: "index.md"
+  - Education:
+    - Labs: "education/labs.md"
+    - Lecture: "education/lecture.md"
+    #- Practices: "education/practice.md"
+    #- Additional materials: "education/additional_materials.md"
+  #- Student case: 
+    #- ITMO 2022/2023: "student_case/itmo2022_2023/itmo2022_2023.md"
