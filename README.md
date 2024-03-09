@@ -1,4 +1,4 @@
-# cloud-platforms-as-the-basis-of-technology-entrepreneurship
+# Cloud platforms as the basis of technology entrepreneurship
 ## Описание репозитория
 Вы находитесь в репозитории учебной дисциплины "Облачные платформы как основа технологического предпринимательства" реализующейся преподавателями [факультета инфокоммуникационных технологий](https://fict.itmo.ru) Университета ИТМО. 
 
