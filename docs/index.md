@@ -6,15 +6,11 @@
 ## План обучения
 **Успешное прохождение учебной программы подразумевает выполнение следующих заданий:**
 
-1. add ([https://m.online.itmo.ru](https://m.online.itmo.ru)) **(Трудозатраты +- 16 часов (Практические занятия))**
-2. add ([Introduction Course FreeSelf-paced5 Theoretical & practical tasks](https://robonomics.academy/online-courses/introduction-course)) **(Трудозатраты 16 часов (Практические занятия))**
-3. add  **(Трудозатраты 6 часов (Лекционные занятия))** + онлайн лекционный курс на eDEX по Kubernetes ([https://www.edx.org/course/introduction-to-kubernetes](https://www.edx.org/course/introduction-to-kubernetes)) + 4 лабораторные работы по теме лекций **(Трудозатраты +- 20 часов (Практические занятия))**
+1. [Лекции](https://itmo-ict-faculty.github.io/introduction-to-distributed-technologies/education/lecture.md) **(Трудозатраты 30 часов)**
+2. [Лабораторные работы](https://itmo-ict-faculty.github.io/introduction-to-distributed-technologies/education/labs.md) **(Трудозатраты +- 24 часа)**
 
-Более подробно можно узнать в следующих разделах:
 
-- [Лабораторные работы](https://itmo-ict-faculty.github.io/introduction-to-distributed-technologies/education/labs2023-2024)
-- [Лекции](https://itmo-ict-faculty.github.io/introduction-to-distributed-technologies/education/lecture)
-- [Дополнительные материалы](https://itmo-ict-faculty.github.io/introduction-to-distributed-technologies/education/additional_materials)
+- [Дополнительные материалы](https://itmo-ict-faculty.github.io/introduction-to-distributed-technologies/education/additional_materials.md)
 
 ## Методы оценивания
 - Для получения оценки 3 необходимо выполнить не менее 60% заданий во всех курсах. Среднее значение должно быть между 60 и 75 процентами. 
